@@ -1,5 +1,8 @@
 Customer Churn Prediction System 📊
 
+streamlit web app link
+https://customer-churn-prediction-kwdommdenbvqtvitbizpui.streamlit.app/
+
 Predict whether a telecom customer is likely to churn using machine learning — complete with interactive Streamlit dashboard.
 
 Table of Contents
@@ -87,3 +90,4 @@ Accuracy ~80%
 ROC-AUC ~0.85
 
 F1-score optimized for minority class
+
