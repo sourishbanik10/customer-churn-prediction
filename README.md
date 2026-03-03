@@ -3,7 +3,7 @@ Customer Churn Prediction System 📊
 streamlit web app link
 https://customer-churn-prediction-kwdommdenbvqtvitbizpui.streamlit.app/
 
-Predict whether a telecom customer is likely to churn using machine learning — complete with interactive Streamlit dashboard.
+Predict whether a telecom customer is likely to churn using machine learning — complete with interactive Streamlit dashboard. The Customer Churn Prediction System is an interactive web application that predicts whether a telecom customer is likely to leave (churn) using a trained XGBoost machine learning model. Users can input customer details such as demographics, services subscribed, contract type, and billing information. The app provides a churn probability, visualized with a risk meter, and actionable business recommendations to retain customers. Churn prediction helps companies identify at-risk customers in advance, reduce revenue loss, and design retention strategies. The app features a Netflix-style dark UI, card layout, and responsive inputs for a professional, user-friendly experience.
 
 Table of Contents
 
@@ -90,4 +90,5 @@ Accuracy ~80%
 ROC-AUC ~0.85
 
 F1-score optimized for minority class
+
 
