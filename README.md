@@ -15,14 +15,11 @@ Usage
 
 Model Details
 
-Contributing
-
-License
 
 Demo
 
-Check out the live app here: Streamlit Link
- 🌐
+Check out the live app here: 
+ 🌐https://customer-churn-prediction-kwdommdenbvqtvitbizpui.streamlit.app/
 
 Features
 
@@ -90,5 +87,6 @@ Accuracy ~80%
 ROC-AUC ~0.85
 
 F1-score optimized for minority class
+
 
 
